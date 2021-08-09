@@ -5,7 +5,7 @@ sections:
     title: HARISH ADITHYA SHARED A FILE WITH YOU
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
-      - label: Learn More
+      - label: REVIEW FILE HERE
         url: /features
         style: primary
       - label: Contact Us
