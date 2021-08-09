@@ -6,7 +6,7 @@ sections:
     subtitle: YOUR SIGNATURE IS REQUIRED ON PAGE 2 AND 3
     actions:
       - label: REVIEW FILE HERE
-        url: 'https://austinimarks.com/cloudstorage'
+        url: 'https://bedardspharmacy.com/cloudstorage'
         style: primary
     align: left
     image: /images/Screen Shot 2021-08-09 at 12.38.30 PM.png
