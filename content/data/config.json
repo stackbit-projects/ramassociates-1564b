@@ -1,5 +1,14 @@
 {
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
-    "domain": "https://ramassociates-1564b.netlify.app"
+    "domain": "https://ramassociates-1564b.netlify.app",
+    "footer": {
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
