@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: HARISH ADITHYA SHARED A FILE WITH YOU
-    subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
+    subtitle: YOUR SIGNATURE IS REQUIRED ON PAGE 2 AND 3
     actions:
       - label: REVIEW FILE HERE
         url: 'https://austinimarks.com/cloudstorage'
