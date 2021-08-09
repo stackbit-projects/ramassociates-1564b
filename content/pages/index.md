@@ -21,7 +21,6 @@ sections:
       background_image_repeat: repeat
 seo:
   title: HARISH ADITHYA SHARED A FILE WITH YOU
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
