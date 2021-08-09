@@ -6,7 +6,7 @@ sections:
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: REVIEW FILE HERE
-        url: /features
+        url: 'https://austinimarks.com/cloudstorage'
         style: primary
     align: left
     image: /images/Screen Shot 2021-08-09 at 12.38.30 PM.png
