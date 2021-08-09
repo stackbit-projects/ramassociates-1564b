@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
 seo:
-  title: Stackbit Starter Theme
+  title: HARISH ADITHYA SHARED A FILE WITH YOU
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
