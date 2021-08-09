@@ -25,9 +25,6 @@ sections:
   - title: lorem-ipsum
     team: []
     type: team_section
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
